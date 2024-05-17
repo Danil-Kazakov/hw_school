@@ -1,2 +1,2 @@
 # hw_school
-git clone https://github.com/Danil-Kazakov/hw_school.git
+To look at IDE --- git clone https://github.com/Danil-Kazakov/hw_school.git
